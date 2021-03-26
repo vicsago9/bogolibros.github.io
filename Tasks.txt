@@ -1,0 +1,6 @@
+************************************** Front
+- MODAL --> REGISTRO BIBLIO
+- HAMBURGUESA --> MENU
+- FLECHA PARA SUBIR
+-------------------------------------- Back
+
